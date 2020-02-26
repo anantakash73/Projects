@@ -1,0 +1,13 @@
+version : "3"
+
+services:
+  htop:
+    build: .
+    image: htop_setup
+    stdin_open: true
+    tty: true
+  htop_2:
+    build: .
+    image: htop_setup
+    stdin_open: true
+    tty: true
