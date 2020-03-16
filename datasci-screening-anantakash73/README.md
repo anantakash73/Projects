@@ -1,6 +1,5 @@
  <div class="center">
-<p align="center"><img src="https://user-images.githubusercontent.com/523933/49741959-91a1da00-fc65-11e8-911f-521331f87174.png" align="center" width="20%" height="20%"></p>
-  <h3 align="center">Clear Street</h3>
+
   <p align="center">
   Data Science Screening
 </p>
@@ -8,7 +7,7 @@
 
 ---
 
-Please read these instructions carefully as this repository contains parts of your interview. You will be given your own private version of this repository to complete your work. Only you and Clear Street members can view your repository.
+Please read these instructions carefully as this repository contains parts of your interview. You will be given your own private version of this repository to complete your work. Only you and Acme members can view your repository.
 
 You should create a branch from `master` to do your work. Once you are satisfied, create a pull-request with your notes and merge your work into `master`. The pull-request will let us know you are finished.
 
